@@ -1,13 +1,12 @@
 # Laundry Scheduler Algorithm for Palwash
 
-A Python-based scheduling algorithm designed to streamline laundry pickup and delivery services for college students. This project includes a command-line interface for demonstrating the app's functionality, with options to create user accounts, schedule laundry pickups, and manage service requests.
+A Python-based scheduling algorithm designed to streamline laundry pickup and delivery services for college students. This project includes a command-line interface for demonstrating the app's functionality - scheduling laundry pickups and managing service requests.
 
 ## Features
 
 - **User Registration/Login**: Allows students to register and authenticate their accounts.
 - **Scheduling**: Enables users to book laundry pickups and deliveries based on predefined time slots.
 - **Conflict Management**: Automatically detects and resolves scheduling conflicts.
-- **Admin Controls**: Allows admins to manage time slots, view schedules, and adjust operations as needed.
 - **CSV Storage**: Stores user data and schedules locally for simplicity.
 
 ## Requirements
